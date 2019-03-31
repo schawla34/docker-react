@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            This file has been changed after docker-compose.
+            Change in feature branch.
           </p>
           <a
             className="App-link"
